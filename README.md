@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard that provides a detailed breakdown of sales performance across months, salespeople, and teams. It highlights actual vs. target sales, variance, and progress toward reaching sales goals.
 
-![Dashboard Preview](salesdashboard.png)
+![Dashboard Preview](sales.png)
 
 ---
 
